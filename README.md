@@ -1,16 +1,20 @@
-## Hi there 👋
+# Bem vindo ❣️
 
-<!--
-**brunasilvadias/brunasilvadias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello My name is bruna..
 
-Here are some ideas to get you started:
+sou do 1 ensino medio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+estou aprendendo a plaraforma alura, espero aprender cada detalhes importantes
+
+meu insta e bru_slic
+
+iniciante em alemao e ingles
+
+sonho ir pro EUA,e alemanha
+
+![](https://media.tenor.com/9wIQXnG-E-QAAAAM/cute-dancing.gif)
+
+
+
+
+
